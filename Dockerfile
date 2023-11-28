@@ -1,4 +1,5 @@
 FROM ubuntu:22.04
+LABEL version="2023-11-28 21:29"
 
 ARG DEBIAN_FRONTEND=noninteractive 
 
